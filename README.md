@@ -14,10 +14,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Video Streaming Platform With Node.js</h3>
+  <h1 align="center">Video Streaming Platform With Node.js</h1>
 
   <p align="center">
-    Inspired by modern streaming platforms such as YouTube and Rumble, this humble coding bootcamp student is attempting to re-create, to the best of my ability, the fundamental technology behind these powerful and popular types of platforms.
+    Inspired by modern streaming platforms such as YouTube and Rumble, this humble coding bootcamp student is attempting to re-create, to the best of their ability, the fundamental technology behind these powerful and popular types of platforms, for demo purposes for prospective employers.
     <br />
     <a href="https://github.com/infiniteoo/video_platform_node_js"><strong>Explore the docs »</strong></a>
     <br />
@@ -171,15 +171,15 @@ Project Link: [https://github.com/infiniteoo/video_platform_node_js](https://git
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/infiniteoo/video_platform_node_js/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/infiniteoo/video_platform_node_js/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/infiniteoo/video_platform_node_js/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/infiniteoo/video_platform_node_js/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/t-wayne-doorman/
 [product-screenshot]: images/screenshot.png
