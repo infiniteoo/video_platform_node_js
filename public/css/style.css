@@ -836,9 +836,14 @@ select.form-control.bfh-countries:hover {
   margin: 0;
   line-height: 1.5em;
 }
+
 .video-grid iframe {
     border: none;
     height: 376px;
+}
+#videoPlayer{
+	height:100%;
+	width:100%;
 }
 .share h5{
     margin: 0;
