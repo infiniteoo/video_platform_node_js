@@ -2,9 +2,11 @@ const express = require('express')
 const router = express.Router()
 const fs = require('fs')
 
+const data = require('../database')
+
 /* GET home page. */
 router.get('/', function (req, res, next) {
-  res.render('index', { title: 'SnailStream' })
+  res.render('index', { movies: data })
 })
 
 router.get('/video', function (req, res) {

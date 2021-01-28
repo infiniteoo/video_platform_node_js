@@ -1,0 +1,15 @@
+<div class="single-grid-right">
+    {{ #each upNext }}
+    <div class="single-right-grids">
+        <div class="col-md-4 single-right-grid-left">
+            <a href="single.html"><img src="{{ poster_path }}" alt="" /></a>
+        </div>
+        <div class="col-md-8 single-right-grid-right">
+            <a href="single.html" class="title"> {{ title }}</a>
+            <p class="author"><a href="#" class="author">{{ description }}</a></p>
+            <p class="views">2,114,200 views</p>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+    {{/each}}
+</div>
