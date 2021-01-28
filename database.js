@@ -21,7 +21,7 @@ const database = [
     poster_path: 'images/movie_posters/elf.jpg',
     views: '11,773,533',
     description:
-      'Buddy, a human, is raised amongst elves at the North Pole. When he discovers that he is not an elf, he travels to New York to search for his biological father.t'
+      'Buddy, a human, is raised amongst elves at the North Pole. When he discovers that he is not an elf, he travels to New York to search for his biological father.'
   },
   {
     video_path: 'video_library/Galaxy.Quest.1999.720p.BrRip.x264.YIFY.mp4',

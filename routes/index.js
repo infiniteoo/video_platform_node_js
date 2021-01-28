@@ -9,6 +9,10 @@ router.get('/', function (req, res, next) {
   res.render('index', { movies: data })
 })
 
+router.get('/api/upnext', function (req, res) {
+  res.json(data)
+})
+
 router.get('/video', function (req, res) {
   const path = 'assets/sample.mp4'
   const stat = fs.statSync(path)
